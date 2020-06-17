@@ -2,4 +2,6 @@
 Co-Authors @allenye66 <br>
 Automatically solves a given solvable Sudoku puzzle using backtracking.
 ## How to run
-Download the repository, and run the SudokuSolver/src/main.java file.
+1. Download the repository
+2. Run the SudokuSolver/src/main.java file
+3. Input an unsolved Sudoku puzzle
